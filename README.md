@@ -40,3 +40,11 @@
 - Complexity is O(n^2)
 	- insertion_sort.py
 	
+##### Merge Sort
+- Divide and conquer strategy
+- Complexity is O(nlogn)
+ 	- merge_sort.py
+
+##### Quick Sort
+- Complexity is O(n^2)
+	- quick_sort.py
