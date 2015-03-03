@@ -42,9 +42,12 @@
 	
 ##### Merge Sort
 - Divide and conquer strategy
+- Requires extra space to hold the two halves
 - Complexity is O(nlogn)
  	- merge_sort.py
 
 ##### Quick Sort
+- Divide and conquer strategy
+- Not using additional storage.
 - Complexity is O(n^2)
 	- quick_sort.py
