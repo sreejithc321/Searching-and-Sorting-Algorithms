@@ -27,7 +27,7 @@
 ##### Bubble Sort
 - Compares adjacent items and exchanges those that are out of order
 - Complexity is O(n^2)
-	-bubble_sort.py
+	- bubble_sort.py
 	
 ##### Selection Sort
 - Makes only one exchange for every pass through the list.
