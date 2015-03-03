@@ -1,4 +1,3 @@
-
 # Implementation of Searching and Sorting Algorithms in Python
 
 ### Searching Algorithms
