@@ -2,11 +2,11 @@
 def merge_sort(num_list):
 
     if len(num_list)>1:
+		
+		# Split
         mid = len(num_list)//2
         left_half = num_list[:mid]
-        right_half = num_list[mid:]
-        
-        # Split  
+        right_half = num_list[mid:]  
         merge_sort(left_half)
         merge_sort(right_half)
 
