@@ -34,4 +34,20 @@
 - Complexity is O(n^2)
 	- selection_sort.py
 
+##### Insertion Sort
+- Builds the final sorted list one item at a time
+- Always maintains a sorted sublist in the lower positions of the list
+- Complexity is O(n^2)
+	- insertion_sort.py
+	
+##### Shell Sort
+- Complexity  between O(n) and O(n^2)
+	- shell_sort.py
 
+##### Merge Sort
+- Complexity is O(nlogn)
+ 	- merge_sort.py
+
+##### Quick Sort
+- Complexity is O(n^2)
+	- quick_sort.py
